@@ -1,0 +1,8 @@
+include: package:lint/analysis_options_package.yaml
+linter:
+  rules:
+    lines_longer_than_80_chars: true
+    prefer_single_quotes: true
+analyzer:
+  exclude:
+    - lib/src/**.g.dart

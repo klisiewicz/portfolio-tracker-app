@@ -1,0 +1,26 @@
+{
+  "@@locale": "en",
+  "assetBonds": "Bonds",
+  "assetCrypto": "Crypto",
+  "assetDeFi": "DeFi",
+  "assetNft": "NFT",
+  "assetStock": "Stock",
+  "assetRealEstate": "Real Estate",
+  "assetUnknown": "Unknown",
+  "holdingsAssetEmpty": "No portfolio assets data",
+  "holdingsAssetFilterHint": "Asset Type",
+  "holdingsAssetsTitle": "Portfolio Holdings",
+  "holdingsChartTitle": "Portfolio Chart",
+  "holdingsChartEmpty": "No portfolio chart data",
+  "holdingsErrorNotFound": "No portfolio was found for user \"{userId}\"",
+  "@holdingsErrorNotFound": {
+    "placeholders": {
+      "userId": {
+        "type": "String"
+      }
+    }
+  },
+  "holdingsErrorUnknown": "Something went wrong while retrieving portfolio",
+  "holdingsPageTitle": "Portfolio Tracker",
+  "holdingsUserSearchHint": "Find user"
+}

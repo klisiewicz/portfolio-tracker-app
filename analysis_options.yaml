@@ -4,5 +4,8 @@ linter:
     lines_longer_than_80_chars: true
     prefer_single_quotes: true
 analyzer:
+  plugins:
+    - custom_lint
   exclude:
     - lib/src/**.g.dart
+    - lib/src/**/l10n/**

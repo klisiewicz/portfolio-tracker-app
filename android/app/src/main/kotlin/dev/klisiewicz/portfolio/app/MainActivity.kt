@@ -1,4 +1,4 @@
-package dev.klisiewicz.portfolio.portfolio_tracker_app
+package dev.klisiewicz.portfolio.app
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -5,7 +5,7 @@ analyze:
 
 .PHONY: app
 app:
-	flutter run --debug
+	flutter run --profile
 
 .PHONY: generate
 generate:
